@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-const API_ENDPOINT1 = '【API Gateway Lambda1のエンドポイント】';
+const API_ENDPOINT1 = 'https://ytgjm14g77.execute-api.ap-northeast-1.amazonaws.com/';
 const API_ENDPOINT2 = '【API Gateway Lambda2のエンドポイント】';
 
 function App() {
